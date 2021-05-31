@@ -32,3 +32,8 @@
 * Mount to drive
 ## Explore Data Analys
   Exploratory Analysis the correlation of column onboard House Price Sell case using Pandas and Seaborn visualisations
+  
+# [Project 5 : Retail: Project Overview](https://github.com/terkoizmy/Retail)
+## Explore Data Analys
+  Simple Exploratory Analysis from a data what we can do in that data using Pandas and Seaborn visualisations
+
