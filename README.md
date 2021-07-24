@@ -33,7 +33,23 @@
 ## Explore Data Analys
   Exploratory Analysis the correlation of column onboard House Price Sell case using Pandas and Seaborn visualisations
   
-# [Project 5 : Retail: Project Overview](https://github.com/terkoizmy/Retail)
+#  [Project 5 : Retail: Project Overview](https://github.com/terkoizmy/Retail)
 ## Explore Data Analys
   Simple Exploratory Analysis from a data what we can do in that data using Pandas and Seaborn visualisations
+  
+#  [Project 6 : Tweet Disaster: Project Overview](https://github.com/terkoizmy/TweetDisaster)
+## Basic NLP
+* Text processing(lemmatizer & Stop wrord)
+* Bag Of word
+* modeling (xgboost & random forest)
+## Modeling LSTM
+* Text processing(lemmatizer & Stop wrord)
+* Embedding text with glove (word2vec)
+* Using LSTM layer for deep learning train model
 
+#  [Project 7 : Population: Project Overview](https://github.com/terkoizmy/Population)
+## forecasting model
+* Data Processing (data cleaning, split data)
+* Assumption check and prosses (differencing, ADF-test, Ljung-Box) 
+* create Sarima model with hyper tunning
+* check accuracy with MAE and MAPE
