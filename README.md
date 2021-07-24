@@ -19,7 +19,7 @@
 * Save and Load model to drive
 * Submission Score (0.77751) with XGBoost
 ## Explore Data Analys
-  Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations
+  Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualization
   
 #  [Project 4 : House Sell Price: Project Overview](https://github.com/terkoizmy/House-Price-Sell)
 ## Train for Submission
@@ -31,11 +31,11 @@
 * Modeling With ANN
 * Mount to drive
 ## Explore Data Analys
-  Exploratory Analysis the correlation of column onboard House Price Sell case using Pandas and Seaborn visualisations
+  Exploratory Analysis the correlation of column onboard House Price Sell case using Pandas and Seaborn visualization
   
 #  [Project 5 : Retail: Project Overview](https://github.com/terkoizmy/Retail)
 ## Explore Data Analys
-  Simple Exploratory Analysis from a data what we can do in that data using Pandas and Seaborn visualisations
+  Simple Exploratory Analysis from a data what we can do in that data using Pandas and Seaborn visualization
   
 #  [Project 6 : Tweet Disaster: Project Overview](https://github.com/terkoizmy/TweetDisaster)
 ## Basic NLP
