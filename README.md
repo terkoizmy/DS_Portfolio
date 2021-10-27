@@ -53,3 +53,10 @@
 * Assumption check and prosses (differencing, ADF-test, Ljung-Box) 
 * create Sarima model with hyper tunning
 * check accuracy with MAE and MAPE
+
+#  [Project 8 : Film Recomendation: Recomendation System](https://github.com/terkoizmy/Recomendation_system)
+## item-based collaborative filtering algorithm with k-nn model
+* Recomendation using item-based collaborative filtering algorithm
+* Removing noise data
+* Removing sparsity
+* Predicting film recomendation using K-NN model
